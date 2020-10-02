@@ -1,5 +1,5 @@
 ### Hi there 👋, Dereck Mavingire
-####[ Designer and Developer ](https://github.com/dereckofficial/myportfolio/blob/main/javaColors.jpg)
+####[Designer and Developer](https://github.com/dereckofficial/myportfolio/blob/main/javaColors.jpg)
 I made this project just for fun this project allows you to create nice and simple GitHub readme files that you can copy/paste as use in your profile.
 
 Skills: PYTHON /C++/JAVA /PHP / HTML 
